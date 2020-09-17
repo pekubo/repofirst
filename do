@@ -1,16 +1,16 @@
 git status
 echo "***"
 read xx
-git add *
+git add -vvv * 
 echo "***"
 read xx
-git commit -m "Something new"
+git commit -vvv -m "Something new"
 echo "***"
 read xx
 git status
 echo "***"
 read xx
-git push
+git push -vvv
 echo "finished ***"
 read xx
 
