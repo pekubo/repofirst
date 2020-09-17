@@ -1,2 +1,3 @@
 Eine Datei im branch NewFile
+Zeile zwei
 
