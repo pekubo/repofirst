@@ -1,3 +1,4 @@
+# comment
 git status
 echo "***"
 read xx
