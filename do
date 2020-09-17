@@ -1,3 +1,4 @@
+echo "Ueberschrift"
 git status
 echo "***"
 read xx
