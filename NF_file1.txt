@@ -1,0 +1,6 @@
+Eine Datei im branch NewFile
+Zeile zwei
+Zeile drei
+4
+5
+
